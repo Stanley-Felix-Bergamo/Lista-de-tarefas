@@ -1,4 +1,4 @@
-# Lista-de-tarefas
+# Lista de tarefas
 
 <p>Adiciona tarefas, e ao clicar na tarefa ela será riscada.</p>
 

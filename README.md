@@ -3,7 +3,7 @@
 <p>Adiciona tarefas, e ao clicar na tarefa ela será riscada.</p>
 
 
-<p>Saiba mais acessando o site <a href="">Clicando aki</a></p> 
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Lista-de-tarefas/">Clicando aki</a></p> 
 <div align="center" >
 <img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Lista-de-tarefas/exerc%C3%ADcio_jquery/images/mac.png" alt="imagem">
 </div>

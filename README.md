@@ -8,9 +8,6 @@
 <img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Lista-de-tarefas/exerc%C3%ADcio_jquery/images/mac.png" alt="imagem">
 </div>
 
-<h2>👨‍🏫 Créditos</h2>
-<p>Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.</p>
-
 <h2>💻 Tecnologias utilizadas</h2>
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:<br>
